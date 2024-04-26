@@ -1,0 +1,50 @@
+body {
+    margin: 0;
+    background-image: url(https://images.pexels.com/photos/346529/pexels-photo-346529.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1);
+    background-size: cover;
+    font-family: Basis grotesque pro, sans-serif;
+    height: 100vh;
+    font-weight: 400;
+    text-align: center;
+}
+.myDiv{
+    width: 100vw;
+}
+
+ h1 {
+    margin-top: 100px;
+    margin-bottom: 50px;
+}
+
+h2 {
+    font-size: 50px;
+    margin-top: 0;
+    margin-bottom: 80px;
+}
+button{
+    width: 180px;
+    border: 1px solid cyan;
+    border-radius: 30px;
+    font-family: Basis grotesque pro, sans-serif;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 40px;
+}
+#incr-btn {
+    background-color: black;
+    color: white;
+    margin: 20px;
+}
+#save-btn {
+    background-color: white;
+    color: black;
+    margin: 20px;
+}
+#save{
+    font-family: Basis grotesque pro, sans-serif;
+    font-size: 30px;
+    font-weight: 400;
+    line-height: 40px;
+    color: white;
+}
+
