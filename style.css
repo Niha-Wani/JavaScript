@@ -1,4 +1,5 @@
-body {
+body 
+{
     margin: 0;
     background-image: url(https://images.pexels.com/photos/346529/pexels-photo-346529.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1);
     background-size: cover;
@@ -7,20 +8,23 @@ body {
     font-weight: 400;
     text-align: center;
 }
-.myDiv{
+.myDiv
+{
     width: 100vw;
 }
- h1 {
+ h1 
+{
     margin-top: 100px;
     margin-bottom: 50px;
 }
-
-h2 {
+h2 
+{
     font-size: 50px;
     margin-top: 0;
     margin-bottom: 80px;
 }
-button{
+button
+{
     width: 180px;
     border: 1px solid cyan;
     border-radius: 30px;
@@ -29,21 +33,23 @@ button{
     font-weight: 400;
     line-height: 40px;
 }
-#incr-btn {
+#incr-btn 
+{
     background-color: black;
     color: white;
     margin: 20px;
 }
-#save-btn {
+#save-btn 
+{
     background-color: white;
     color: black;
     margin: 20px;
 }
-#save{
+#save
+{
     font-family: Basis grotesque pro, sans-serif;
     font-size: 30px;
     font-weight: 400;
     line-height: 40px;
     color: white;
 }
-
